@@ -97,7 +97,7 @@ nav ul .contact:hover {
   transition: 0.5s ease;
 }
 .section-top .content {
-  background-image: url(images/baner-dec-left.png);
+  background-image: url(../images/baner-dec-left.png);
   background-position: top left;
   background-repeat: no-repeat;
   padding-left: 10%;
@@ -162,7 +162,7 @@ nav ul .contact:hover {
 /*section-top2 start*/
 
 .section-top2 {
-  background-image: url(images/about-bg.png);
+  background-image: url(../images/about-bg.png);
   background-position: center;
   background-size: cover;
   padding: 100px 0px;
@@ -485,7 +485,7 @@ nav ul .contact:hover {
 
 /*last-section start*/
 .last-section {
-  background-image: url(images/contact-bg.png);
+  background-image: url(../images/contact-bg.png);
   background-size: cover;
   background-position: center;
   padding: 0px 0px 150px 0px;
